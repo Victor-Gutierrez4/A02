@@ -19,3 +19,17 @@ To commit and push changes to GitHub, press Ctrl + K to open the Commit window. 
 https://www.jetbrains.com/webstorm/download/#section=windows
 https://git-scm.com/downloads
 https://www.jetbrains.com/help/webstorm/set-up-a-git-repository.html
+
+Definitions
+**Branch**- A branch is a separate line of development within a Git repository. It allows you to work on new features or fixes without affecting the main codebase.
+**Clone** - Cloning is the process of creating a local copy of a remote Git repository. This allows you to work on the project offline and sync changes later.
+**Commit** - A commit is a snapshot of your changes in a Git repository. Each commit has a unique ID and serves as a checkpoint in the project's history.
+**Fetch** - Fetching retrieves the latest changes from a remote repository without applying them to your local branch. It allows you to see updates before merging them.
+**GIT** - Git is a distributed version control system that tracks changes in code and allows multiple developers to collaborate on a project.
+**Github** - GitHub is an online platform for hosting and managing Git repositories. It provides collaboration tools, issue tracking, and pull requests for version control.
+**Merge** -  Merging combines changes from one branch into another, integrating different lines of development.
+**Merge Conflict** - A merge conflict occurs when Git cannot automatically resolve differences between two branches. Developers must manually edit the conflicting files to complete the merge.
+**Push** - Pushing uploads local commits to a remote repository, making them available to other collaborators.
+**Pull** - Pulling fetches and applies changes from a remote repository to your local branch, keeping your code up to date.
+**Remote** - A remote is a reference to a Git repository hosted on a server, such as GitHub, GitLab, or Bitbucket. It allows multiple users to collaborate on the same codebase.
+**Repository** - A repository is a storage location for a Git project that contains all files, commit history, and branches. It can be local or hosted remotely on platforms like GitHub.
