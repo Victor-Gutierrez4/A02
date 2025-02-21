@@ -21,6 +21,7 @@ https://git-scm.com/downloads
 https://www.jetbrains.com/help/webstorm/set-up-a-git-repository.html
 
 Definitions
+
 **Branch**- A branch is a separate line of development within a Git repository. It allows you to work on new features or fixes without affecting the main codebase.
 
 **Clone** - Cloning is the process of creating a local copy of a remote Git repository. This allows you to work on the project offline and sync changes later.
